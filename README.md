@@ -8,7 +8,7 @@ Minimalist app that changes the background color and shows what color is selecte
 
 ## Installation
 
-1. Clone the repository git clone
+1. Clone the repository [git clone](https://github.com/AlexdelCarmen/color-flipper). 
 2. Open the 'index.html' file in your browser.
 
 ## Usage
